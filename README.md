@@ -1,8 +1,12 @@
 # CODTECH-Internship-Project2-UI-UX-Visual-Testing
 Software Testing Internship
+
 Company: Codtech IT Solutions Private Limited
+
 Intern: Mrunmayee Milind Wani
+
 Intern ID: CITS7824
+
 Project 2: UI/UX Visual Testing
 
 ## Project Overview
