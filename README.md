@@ -41,7 +41,7 @@ This project focuses on performing basic UI/UX visual testing of the SauceDemo w
 
 ## Files Included
 
-- Second_Project_Report_of_Internship.docx
+- Second_Project_of_Internship.docx
 - UI_UX_Test_Cases.xlsx
 - Screenshots
 
